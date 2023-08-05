@@ -1,18 +1,18 @@
-#about
-A mod prividng tools for creative building.
-Eventually this should hopefully help with anything from terrain to architecture to detailing.
+# About
+A mod providing tools for creative building. Eventually this should hopefully
+help with anything from terrain to architecture to detailing.
 
-#warning
+# Warning
 The tools from this mod can be used to cause extreme damage to the world.
-Either only install this in worlds with people you trust 
-or make very very sure that nobody un-authorised gets their hands on them.
+Either only install this in worlds with people you trust
+or make very very sure that nobody unauthorised gets their hands on them.
 
-#translation
+# Translation
 Translation support is subject to:
 1) Somebody actually requesting the feature.
 2) Somebody offering to provide the translated strings.
 
-#license
+# License
 MIT License
 
 Copyright (c) 2022 Skamiz Kazzarch
